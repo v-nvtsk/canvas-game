@@ -1,0 +1,14 @@
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 40px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.canvas {
+  border: 1px solid black;
+}
